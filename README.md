@@ -1,3 +1,5 @@
+### Bayesian tensor factorization for predicting clinical outcomes using integrated human genetics evidence
+
 This repo contains detailed information on data and methodology used in our work presented at ICML 2022 Computational Biology workshop.
 
 [Workshop website](https://icml-compbio.github.io/) | [Extended abstract](https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_73.pdf) | [Poster](docs/icml-2022-poster-camera-ready.pdf)
