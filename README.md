@@ -28,7 +28,7 @@ We integrate three lines of human genetics evidence across rare disease, gene bu
 
 | Data source                                                                                                                | Positive label  | Negative label |
 | -------------------------------------------------------------------------------------------------------------------------- | :-------------: | :------------: |
-| [Locus-to-gene "L2G" score](https://genetics-docs.opentargets.org/our-approach/prioritising-causal-genes-at-gwas-loci-l2g) | Score $\ge 0.5$ | Score $ < 0.5$ |
+| [Locus-to-gene "L2G" score](https://genetics-docs.opentargets.org/our-approach/prioritising-causal-genes-at-gwas-loci-l2g) | Score $\ge 0.5$ | Score < $0.5$  |
 
 ## Citation
 
