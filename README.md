@@ -1,6 +1,6 @@
 This repo contains detailed information on data and methodology used in our work presented at ICML 2022 Computational Biology workshop.
 
-[Extended abstract](https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_73.pdf) | [Poster](docs/icml-2022-poster-camera-ready.pdf)
+[Workshop website](https://icml-compbio.github.io/) | [Extended abstract](https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_73.pdf) | [Poster](docs/icml-2022-poster-camera-ready.pdf)
 
 ![Schematic](images/tensor-schema.png)
 Schematic representation of 3-rank tensor with sparse data available on genetics evidence and clinical outcome.
