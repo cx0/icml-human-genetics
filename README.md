@@ -37,12 +37,14 @@ We integrate three lines of human genetics evidence across rare disease, gene bu
 If you find this work useful, please cite it as follows:
 
 ```bibtex
-@inproceedings{human_genetics,
-  author = {Onuralp Soylemez},
-  title={Bayesian tensor factorization for predicting clinical outcomes using integrated human genetics evidence},
-  url = {https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_73.pdf},
-  maintitle = {ICML 2022},
-  booktitle = {The 2022 ICML Workshop on Computational Biology},
+@misc{https://doi.org/10.48550/arxiv.2207.12538,
+  doi = {10.48550/ARXIV.2207.12538},
+  url = {https://arxiv.org/abs/2207.12538},
+  author = {Soylemez, Onuralp},
+  keywords = {Machine Learning (cs.LG), Genomics (q-bio.GN), Applications (stat.AP), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Biological sciences, FOS: Biological sciences},
+  title = {Bayesian tensor factorization for predicting clinical outcomes using integrated human genetics evidence},
+  publisher = {arXiv},
   year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
